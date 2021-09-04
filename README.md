@@ -1,7 +1,7 @@
 ## WELCOME TO THE WEBSITE 
 
 ### NEPALI DATE CONVERTER 
-<A HREF="https://github.com/bdxoul/nepalidatecon">DATE CONVERTER </A> 
+<A HREF="https://bdxoul.github.io/nepalidatecon/">DATE CONVERTER </A> 
 
 
 
