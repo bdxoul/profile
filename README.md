@@ -8,9 +8,7 @@
 ### KANTIPUR,PREETI TO UNICODE CONVERTER 
 <A HREF="https://bdxoul.github.io/unicodecon/">UNICODE CONVERTER </A> 
 
-<!DOCTYPE html>
-<html>
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -25,8 +23,7 @@ body {
   color: white;
 }
 </style>
-</head>
-<body>
+
 
 <h2>Toggle Dark/Light Mode</h2>
 <p>Click the button to toggle between dark and light mode for this page.</p>
